@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/gcc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ponter_2.dir/day7/ponter_2.c.o  -o ponter_2 

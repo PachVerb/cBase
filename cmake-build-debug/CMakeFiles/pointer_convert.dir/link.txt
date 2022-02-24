@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/gcc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/pointer_convert.dir/day7/pointer_convert.c.o  -o pointer_convert 

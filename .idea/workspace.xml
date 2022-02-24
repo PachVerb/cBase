@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="LEARN" targetName="pointer_array_1" />
+      <config projectName="LEARN" targetName="array" />
+      <config projectName="LEARN" targetName="pointer" />
+      <config projectName="LEARN" targetName="1" />
+      <config projectName="LEARN" targetName="pointer_array" />
+      <config projectName="LEARN" targetName="ponter_1" />
+      <config projectName="LEARN" targetName="ponter_2" />
+      <config projectName="LEARN" targetName="pointer_convert" />
+      <config projectName="LEARN" targetName="test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb3f3d0c-1077-46e8-955e-42c55010713c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="LEARN" />
+    <favorites_list name="learn">
+      <favorite_root url="file://$PROJECT_DIR$/day4/system.c" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="ProjectId" id="1pwCVwAuYdlyAefBMvkBzFNCOM9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="CMake Application.array">
+    <configuration name="array" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LEARN" TARGET_NAME="array" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LEARN" RUN_TARGET_NAME="array">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pointer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LEARN" TARGET_NAME="pointer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LEARN" RUN_TARGET_NAME="pointer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pointer_array" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LEARN" TARGET_NAME="pointer_array" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LEARN" RUN_TARGET_NAME="pointer_array">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pointer_array_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LEARN" TARGET_NAME="pointer_array_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LEARN" RUN_TARGET_NAME="pointer_array_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pointer_convert" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LEARN" TARGET_NAME="pointer_convert" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LEARN" RUN_TARGET_NAME="pointer_convert">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ponter_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LEARN" TARGET_NAME="ponter_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LEARN" RUN_TARGET_NAME="ponter_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ponter_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LEARN" TARGET_NAME="ponter_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LEARN" RUN_TARGET_NAME="ponter_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LEARN" TARGET_NAME="1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LEARN" RUN_TARGET_NAME="1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LEARN" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LEARN" RUN_TARGET_NAME="test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.array" />
+      <item itemvalue="CMake Application.pointer" />
+      <item itemvalue="CMake Application.pointer_array" />
+      <item itemvalue="CMake Application.pointer_array_1" />
+      <item itemvalue="CMake Application.pointer_convert" />
+      <item itemvalue="CMake Application.ponter_1" />
+      <item itemvalue="CMake Application.ponter_2" />
+      <item itemvalue="CMake Application.run" />
+      <item itemvalue="CMake Application.test" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb3f3d0c-1077-46e8-955e-42c55010713c" name="Default Changelist" comment="" />
+      <created>1616084792180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616084792180</updated>
+      <workItem from="1616084793486" duration="646000" />
+      <workItem from="1616085729894" duration="726000" />
+      <workItem from="1616086526098" duration="1000" />
+      <workItem from="1616086674704" duration="2160000" />
+      <workItem from="1616144735040" duration="176000" />
+      <workItem from="1616145606633" duration="9618000" />
+      <workItem from="1616236066896" duration="30186000" />
+      <workItem from="1616492921641" duration="17912000" />
+      <workItem from="1616761516414" duration="5573000" />
+      <workItem from="1616849514592" duration="9818000" />
+      <workItem from="1616905704665" duration="10101000" />
+      <workItem from="1617011770258" duration="8982000" />
+      <workItem from="1617105992242" duration="13678000" />
+      <workItem from="1617254780204" duration="345000" />
+      <workItem from="1617977702258" duration="504000" />
+      <workItem from="1623673529982" duration="886000" />
+      <workItem from="1623920664231" duration="18000" />
+      <workItem from="1633783050118" duration="1044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="311" key="GridCell.Tab.0.bottom" timestamp="1634026688967">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1634026688967" />
+    <state width="1638" height="311" key="GridCell.Tab.0.center" timestamp="1634026688966">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1634026688966" />
+    <state width="1638" height="311" key="GridCell.Tab.0.left" timestamp="1634026688965">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1634026688965" />
+    <state width="1638" height="311" key="GridCell.Tab.0.right" timestamp="1634026688967">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="311" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1634026688967" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/day3/processControl-6.c</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/day3/cycle-1.c</url>
+          <line>24</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/day3/cycle-3.c</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/day4/do-while.c</url>
+          <line>37</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/day7/ponter_2.c</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/day7/pointer_convert.c</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="i" language="ObjectiveC" />
+        <watch expression="p" />
+        <watch expression="a" language="ObjectiveC" />
+        <watch expression="b" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

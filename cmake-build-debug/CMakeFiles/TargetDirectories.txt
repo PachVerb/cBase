@@ -1,0 +1,11 @@
+/Users/ousan/Desktop/LEARN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ousan/Desktop/LEARN/cmake-build-debug/CMakeFiles/test.dir
+/Users/ousan/Desktop/LEARN/cmake-build-debug/CMakeFiles/array.dir
+/Users/ousan/Desktop/LEARN/cmake-build-debug/CMakeFiles/pointer_array_1.dir
+/Users/ousan/Desktop/LEARN/cmake-build-debug/CMakeFiles/pointer_convert.dir
+/Users/ousan/Desktop/LEARN/cmake-build-debug/CMakeFiles/ponter_2.dir
+/Users/ousan/Desktop/LEARN/cmake-build-debug/CMakeFiles/ponter_1.dir
+/Users/ousan/Desktop/LEARN/cmake-build-debug/CMakeFiles/pointer_array.dir
+/Users/ousan/Desktop/LEARN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ousan/Desktop/LEARN/cmake-build-debug/CMakeFiles/1.dir
+/Users/ousan/Desktop/LEARN/cmake-build-debug/CMakeFiles/pointer.dir
